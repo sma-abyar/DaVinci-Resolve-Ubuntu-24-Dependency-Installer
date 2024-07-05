@@ -17,8 +17,8 @@ This project provides a script to install the necessary dependencies for running
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/resolve-dependency-installer.git
-    cd resolve-dependency-installer
+    git clone https://github.com/sma-abyar/DaVinci-Resolve-Ubuntu-24-Dependency-Installer.git
+    cd DaVinci-Resolve-Ubuntu-24-Dependency-Installer
     ```
 
 2. Make the script executable:
