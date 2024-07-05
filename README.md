@@ -1,6 +1,6 @@
-# DaVinci Resolve Ubuntu 24 Dependency Installer
+# DaVinci Resolve Ubuntu 24.04 Dependency Installer
 
-This project provides a script to install the necessary dependencies for running DaVinci Resolve on Ubuntu 24. DaVinci Resolve may lack some essential packages when installed on Ubuntu 24, and this script aims to resolve these issues by downloading and installing the required packages.
+This project provides a script to install the necessary dependencies for running DaVinci Resolve on Ubuntu 24.04. DaVinci Resolve may lack some essential packages when installed on Ubuntu 24, and this script aims to resolve these issues by downloading and installing the required packages.
 
 ## Features
 
@@ -9,7 +9,7 @@ This project provides a script to install the necessary dependencies for running
 
 ## Prerequisites
 
-- Ubuntu 24
+- Ubuntu 24.04
 - wget
 - dpkg (comes pre-installed with Ubuntu)
 
@@ -47,14 +47,6 @@ These packages are necessary for DaVinci Resolve to run on Ubuntu 24.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Push to the branch (`git push origin feature-branch`)
-6. Create a new Pull Request
 
 ## Acknowledgements
 
